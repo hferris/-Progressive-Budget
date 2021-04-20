@@ -1,0 +1,21 @@
+{
+    "short_name": "Progressive Budget",
+    "name": "Budget Tracker",
+    "icons": [
+      {
+        "src": "favicon.icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon-512x512.png.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#7FFFD4",
+    "background_color": "#F0FFFF"
+  }
