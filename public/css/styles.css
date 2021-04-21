@@ -1,6 +1,7 @@
 body {
   font-size: 120%;
   font-family: Arial;
+  background-color: rgba(201, 192, 192, 0.438);
 }
 
 button, input {
