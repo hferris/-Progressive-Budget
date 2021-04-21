@@ -1,8 +1,7 @@
 # Progressive Budget
 # Here is the screenshot below :star_struck:
-![Alt text](/./public/imgs/Snap-Shot.png?raw=true "Screenshot")
+![Alt text](/./public/imgs/Screen-Shot.png?raw=true "Screenshot")
 
-![Alt text](/./public/imgs/Snap-Shot2.png?raw=true "Screenshot")
 # Check it out here: Heroku link here when completed!
 
 <img src="https://img.shields.io/badge/License-IPL%201.0-blue.svg"></img>
