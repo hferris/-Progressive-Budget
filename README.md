@@ -19,7 +19,7 @@
 * [Questions](#questions)
 
 ## Usage
-To start the server please run npm start. To get access to the application after starting the server, go to http://localhost:3001 in your browser.
+To start the server please run npm start. To get access to the application after starting the server, go to http://localhost:5000 in your browser.
 
 ## License
 IBM
